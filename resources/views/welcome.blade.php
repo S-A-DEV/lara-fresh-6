@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Laravel code coming from cpanel git....
                 </div>
 
                 <div class="links">
